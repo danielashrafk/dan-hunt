@@ -6,3 +6,6 @@ Treasure of Pharaos is a two-level 3D maze game made using OpenGL. The main goal
 To start the game, download the zip file and open the solution file in visual studio, then run it and enjoy!
 
 ![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%20-%201.png)
+
+
+![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%20-%202.png)
