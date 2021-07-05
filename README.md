@@ -9,3 +9,10 @@ To start the game, download the zip file and open the solution file in visual st
 
 
 ![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%20-%202.png)
+
+![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%203.png)
+
+![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%204.png)
+
+![Screenshot](https://github.com/danielashrafk/treasure-of-pharaos/blob/master/textures/top%205.png)
+
